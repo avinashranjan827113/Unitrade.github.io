@@ -1,0 +1,207 @@
+{
+    "data": [
+        {
+            "team": [
+                {
+                    "id": 1,
+                    "image": "./team_member_1.png",
+                    "name": "Prachi Suman",
+                    "designation": "Founder & Head"
+                },
+                {
+                    "id": 2,
+                    "image": "./team_member_2.png",
+                    "name": "Chandu Saini",
+                    "designation": "Manager"
+                },
+                {
+                    "id": 3,
+                    "image": "./team_member_3.png",
+                    "name": "Motu",
+                    "designation": "Frontend Dev."
+                },
+                {
+                    "id": 4,
+                    "image": "./team_member_4.png",
+                    "name": "Bheem",
+                    "designation": "Backend Dev."
+                }
+            ],
+            "navbarLinks": [
+                {
+                    "id": 1,
+                    "title": "Home",
+                    "link": "heroSection"
+                },
+                {
+                    "id": 2,
+                    "title": "All Categories",
+                    "link": "allcategories"
+                },
+                {
+                    "id": 3,
+                    "title": "Electronics",
+                    "link": "electronics"
+                },
+                {
+                    "id": 4,
+                    "title": "Vehicles",
+                    "link": "vehicle"
+                }
+            ],
+            "allcategories": [
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                }
+            ],
+            "electronics": [
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                }
+            ],
+            "calculators": [
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                }
+            ],
+            "vehicle": [
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                },
+                {
+                    "id": 1,
+                    "image": "./laptop.png",
+                    "title": "LAPTOP",
+                    "description": "HP Elite x360 830 13 inch",
+                    "price": "1,28,280",
+                    "phNo": "1234567890"
+                }
+            ],
+            "testimonials": [
+                {
+                    "quote": "Highly recommend to everyone.",
+                    "name": "Chandu Saini",
+                    "position": "CEO at Company",
+                    "description": "B.tech NIT ROURKELA",
+                    "image": "./chandu.jpg"
+                },
+                {
+                    "quote": "Great service and friendly staff!",
+                    "name": "Prachi Suman",
+                    "position": "Co-Founder",
+                    "description": "B.tech NIT ROURKELA",
+                    "image": "./prachi.jpg"
+                }
+               
+            ]
+        }
+    ]
+}
